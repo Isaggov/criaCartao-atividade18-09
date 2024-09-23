@@ -17,13 +17,25 @@ let areaTriangulo=function(base,altura){
 }
 console.log(areaTriangulo(3,4));
 
-let media=prompt('adicione 3 numeros');
+let media=prompt('nota primeiro trimestre');
 
 document.write(media);
 
-parseInt(prompt('adicione 3 numeros'));
+parseInt(prompt('nota primeiro trimestre'));
 
-function media(num1,num2,num3){
-    return(num1+num2+num3)/2;
-}
-console.log(media(document.write(media)));
+
+let media=prompt('nota segundo trimestre');
+
+document.write(media);
+
+parseInt(prompt('nota segundo trimestre'));
+let media=prompt('nota terceiro trimestre');
+
+document.write(media);
+
+parseInt(prompt('nota terceiro trimestre'));
+
+// function media(num1,num2,num3){
+//     return(num1+num2+num3)/2;
+// }
+// console.log(media(document.write(media)));
