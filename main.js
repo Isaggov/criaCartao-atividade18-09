@@ -16,3 +16,9 @@ let areaTriangulo=function(base,altura){
    return (base*altura)/2;
 }
 console.log(areaTriangulo(3,4));
+
+let media=prompt('?');
+
+document.write(media);
+
+parseInt(prompt('?'));
