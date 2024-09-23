@@ -23,3 +23,7 @@ document.write(media);
 
 parseInt(prompt('adicione 3 numeros'));
 
+function media(soma){
+    return(soma)/2;
+}
+console.log(media(document.write(media)));
