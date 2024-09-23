@@ -17,8 +17,9 @@ let areaTriangulo=function(base,altura){
 }
 console.log(areaTriangulo(3,4));
 
-let media=prompt('?');
+let media=prompt('adicione 3 numeros');
 
 document.write(media);
 
-parseInt(prompt('?'));
+parseInt(prompt('adicione 3 numeros'));
+
