@@ -17,22 +17,17 @@ let areaTriangulo=function(base,altura){
 }
 console.log(areaTriangulo(3,4));
 
-let media=prompt('nota primeiro trimestre');
-
+let medirMedia1=prompt('nota primeiro trimestre');
 document.write(media);
-
 parseInt(prompt('nota primeiro trimestre'));
 
 
-let media=prompt('nota segundo trimestre');
-
+let MedirMedia2=prompt('nota segundo trimestre');
 document.write(media);
-
 parseInt(prompt('nota segundo trimestre'));
-let media=prompt('nota terceiro trimestre');
 
+let MedirMedia3=prompt('nota terceiro trimestre');
 document.write(media);
-
 parseInt(prompt('nota terceiro trimestre'));
 
 // function media(num1,num2,num3){
