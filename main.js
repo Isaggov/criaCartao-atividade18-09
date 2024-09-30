@@ -38,7 +38,7 @@ let estados=['Acre','Alagoas', 'Amapá', 'Amazonas', 'Bahia','Ceará','Distrito 
  for (let i = 0; i < estados.length; i++) {
     console.log(estados[i]); }
 
-    let idade=17;
+    let idade=parseInt(prompt('Qual a sua idade?'));
     if(idade>17){
    console.log('ja pode dirigir');
     }
