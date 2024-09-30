@@ -32,12 +32,10 @@
 // let i= 0;
 // while( i<estados.length){
 // console.log(i); 
-// console.log(estados[i]);
+//console.log(estados[i]);
 //  i++;}
 
- for (let index = 0; index < array.length; index++) {
-    const element = array[index];
+ for (let i = 0; i < estados.length; i++) {
+    console.log(estados[i]);
     
  }
-
- 
