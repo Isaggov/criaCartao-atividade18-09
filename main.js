@@ -39,7 +39,7 @@ let estados=['Acre','Alagoas', 'Amapá', 'Amazonas', 'Bahia','Ceará','Distrito 
     console.log(estados[i]); }
 
     let idade=17;
-    if(idade>17){
+    if(idade>16){
    console.log('ja pode dirigir');
     }
      else{
