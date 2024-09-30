@@ -32,4 +32,5 @@ let estados=['Acre','Alagoas', 'Amapá', 'Amazonas', 'Bahia','Ceará','Distrito 
 let i=0;
 white(  i<10 ){
  console.log(i);
+ i=i+1;
 }
